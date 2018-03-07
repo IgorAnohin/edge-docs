@@ -59,6 +59,7 @@ pages:
   - 'ArduPilot': 'dev/ardupilot.md'
   - 'QGC': 'dev/qgc.md'
   - 'Firmware update': 'dev/firmware-update.md'
+  - 'emlidtool': 'dev/emlidtool.md'
 - Specifications:
   - 'Mechanical': 'specs/mechanical.md'
   - 'Electrical': 'specs/electrical.md'
