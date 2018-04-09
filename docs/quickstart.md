@@ -4,7 +4,7 @@ This quickstart tutorial will guide you through the initial setup of Edge drone 
 In the end you’ll get a configured Edge drone controller that streams video from a camera to your laptop.
 After that you can proceed to the hardware installation guide and install your Edge in a frame.
 
-<div style="text-align: center;"><iframe title="Emlid manuals" width="350" height="195" src="https://www.youtube.com/embed/K50kYtBbD34" allowfullscreen></iframe></div>
+<div style="text-align: center;"><iframe title="Emlid manuals" width="560" height="315" src="https://www.youtube.com/embed/K50kYtBbD34" allowfullscreen></iframe></div>
 
 !!! note
     Please [update](firmware-update.md) Edge to the latest firmware before continuing.
